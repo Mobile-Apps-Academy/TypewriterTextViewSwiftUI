@@ -88,7 +88,7 @@ A typewriter animation text view, Developed using SwiftUI.
    ```
 ### Usage
 
-1. How to create the side view
+1. How to create the text view
 
 ```swift
 TypewriterTextView(text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", font: .body)
