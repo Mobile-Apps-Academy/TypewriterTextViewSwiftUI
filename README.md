@@ -92,7 +92,6 @@ A typewriter animation text view, Developed using SwiftUI.
 
 ```swift
 TypewriterTextView(text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", font: .body)
-}
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
